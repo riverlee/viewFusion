@@ -32,4 +32,4 @@ Code:
 
 Result:
 
-![example plot](Example/circos-fusion.svg)
+![example plot](https://github.com/riverlee/viewFusion/raw/master/Example/circos-fusion.png)
